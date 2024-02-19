@@ -1,17 +1,23 @@
-### Hola Mundo!
-Actualmente estudiando un FP de Grado Superior de desarrollo de Aplicaciones Web.
+# Hola Mundo!
+👨‍🎓 Actualmente estudiando un FP de Grado Superior de desarrollo de Aplicaciones Web.
 
 A parte de eso, disfrutando de la vida y aprendiendo mucho.
 
-Conocimientos:
+## 💡 Conocimientos:
 - \</html\>
 - <span style="color: blue;">CSS</span>
 - console.log("<span style="color: yellow;">JavaScript</span>");
-- SELECT <span style="color: red;">SQL</span> FROM Knlowledge
+- SELECT <span style="color: red;">SQL</span> FROM Knlowledge;
 - Java ☕️
 - print("Python")
 
 <a href="https://agabt.com">Visita mi pagina web (esta en desarrollo, es un prueba de momento)</a>
+
+## Aficiones
+💻 Me encanta trabajar en cosas que me hagan ilusión.
+🔥 El mundo de la tecnologia es increible, se puede hacer qualquier cosa y me gustaria aprender cada una de ellas.
+🎮 Videojuegos.
+👓 Ultimamente la Realidad Virtual i la Realidad Aumentada.
 
 <!--
 **agabt/agabt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
