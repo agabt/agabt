@@ -4,10 +4,12 @@ Actualmente estudiando un FP de Grado Superior de desarrollo de Aplicaciones Web
 A parte de eso, disfrutando de la vida y aprendiendo mucho.
 
 Conocimientos:
-- </html>
+- \</html\>
 - <span style="color: blue;">CSS</span>
-- console.log("<span style="color: yellow;">CSS</span>");
-- SELECT <span style="color: red;">CSS</span> FROM Knlowledge
+- console.log("<span style="color: yellow;">JavaScript</span>");
+- SELECT <span style="color: red;">SQL</span> FROM Knlowledge
+- Java ☕️
+- print("Python")
 
 <a href="https://agabt.com">Visita mi pagina web (esta en desarrollo, es un prueba de momento)</a>
 
