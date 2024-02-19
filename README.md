@@ -1,5 +1,13 @@
 ### Hola Mundo!
-Este soy yo, no tengo mucho mas que añadir... 🤣
+Actualmente estudiando un FP de Grado Superior de desarrollo de Aplicaciones Web.
+
+A parte de eso, disfrutando de la vida y aprendiendo mucho.
+
+Conocimientos:
+- </html>
+- <span style="color: blue;">CSS</span>
+- console.log("<span style="color: yellow;">CSS</span>");
+- SELECT <span style="color: red;">CSS</span> FROM Knlowledge
 
 <a href="https://agabt.com">Visita mi pagina web (esta en desarrollo, es un prueba de momento)</a>
 
