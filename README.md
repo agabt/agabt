@@ -20,7 +20,7 @@ A parte de eso, disfrutando de la vida y aprendiendo mucho.
 
 🎮 Videojuegos.
 
-👓 Ultimamente la Realidad Virtual i la Realidad Aumentada.
+👓 Ultimamente la Realidad Virtual y la Realidad Aumentada.
 
 <!--
 **agabt/agabt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
