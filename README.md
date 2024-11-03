@@ -16,7 +16,7 @@ A parte de eso, disfrutando de la vida y aprendiendo mucho.
 ## Aficiones
 💻 Me encanta trabajar en cosas que me hagan ilusión.
 
-🔥 El mundo de la tecnologia es increible, se puede hacer qualquier cosa y me gustaria aprender cada una de ellas.
+🔥 El mundo de la tecnologia es increible, se puede hacer cualquier cosa y me gustaria aprender cada una de ellas.
 
 🎮 Videojuegos.
 
